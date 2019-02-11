@@ -27,6 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/HzZNrHK"><a href="//imgur.com/HzZNrHK">Codepath Tip Calculator Demo</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 [Imgur](https://i.imgur.com/yYpz943.gifv)
 <img src='https://imgur.com/a/HzZNrHK/imgur.gif' title='Video Walkthrough' width='293' height='292' alt='Video Walkthrough' />
 
